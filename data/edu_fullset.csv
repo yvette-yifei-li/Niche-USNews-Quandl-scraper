@@ -1,0 +1,351 @@
+County,City,School_district,Ranking,Grade
+Santa Clara,Los Gatos,Los Gatos-Saratoga Joint Union High School District,1,A+
+Santa Clara,Palo Alto,Palo Alto Unified School District,2,A+
+Monterey,Carmel,Carmel Unified School District,3,A+
+Los Angeles,San Marino,San Marino Unified School District,4,A+
+Santa Clara,Mountain View,Mountain View-Los Altos Union High School District,5,A+
+San Diego,Encinitas,San Dieguito Union High School District,6,A+
+Los Angeles,La Canada,La Canada Unified School District,7,A+
+Los Angeles,Arcadia,Arcadia Unified School District,8,A+
+Los Angeles,Palos Verdes Estates,Palos Verdes Peninsula Unified School District,9,A+
+Marin,Larkspur,Tamalpais Union High School District,10,A+
+Alameda,Pleasanton,Pleasanton Unified School District,11,A+
+Santa Clara,Sunnyvale,Fremont Union High School District,12,A+
+Orange,Irvine,Irvine Unified School District,13,A+
+Los Angeles,South Pasadena,South Pasadena Unified School District,14,A+
+Contra Costa,Lafayette,Acalanes Union High School District,15,A+
+Alameda,Piedmont,Piedmont City Unified School District,16,A+
+Los Angeles,Redondo Beach,Redondo Beach Unified School District,17,A+
+Orange,Laguna Beach,Laguna Beach Unified School District,18,A+
+Los Angeles,Santa Monica,Santa Monica-Malibu Unified School District,19,A+
+San Mateo,San Mateo,San Mateo Union High School District,20,A+
+Los Angeles,Walnut,Walnut Valley Unified School District,21,A+
+Los Angeles,Manhattan Beach,Manhattan Beach Unified School District,22,A+
+Ventura,Oak Park,Oak Park Unified School District,23,A+
+Orange,Los Alamitos,Los Alamitos Unified School District,24,A+
+Los Angeles,Temple City,Temple City Unified School District,25,A+
+Contra Costa,Danville,San Ramon Valley Unified School District,26,A+
+Alameda,Dublin,Dublin Unified School District,27,A+
+Los Angeles,Beverly Hills,Beverly Hills Unified School District,28,A+
+Monterey,Pacific Grove,Pacific Grove Unified School District,29,A+
+San Diego,San Diego,Poway Unified School District,30,A+
+San Diego,Coronado,Coronado Unified School District,31,A+
+Los Angeles,El Segundo,El Segundo Unified School District,32,A+
+Napa,St. Helena,Saint Helena Unified School District,33,A+
+Orange,Placentia,Placentia-Yorba Linda Unified School District,34,A+
+Ventura,Thousand Oaks,Conejo Valley Unified School District,35,A+
+Yolo,Davis,Davis Joint Unified School District,36,A+
+Los Angeles,Culver City,Culver City Unified School District,37,A+
+San Diego,Carlsbad,Carlsbad Unified School District,38,A+
+Los Angeles,Santa Clarita,William S. Hart Union High School District,39,A+
+Orange,Huntington Beach,Huntington Beach Union High School District,40,A
+San Mateo,Redwood City,Sequoia Union High School District,41,A
+Alameda,Berkeley,Albany City Unified School District,42,A
+Los Angeles,Torrance,Torrance Unified School District,43,A
+Los Angeles,Glendora,Glendora Unified School District,44,A
+Placer,Auburn,Placer Union High School District,45,A
+Los Angeles,Calabasas,Las Virgenes Unified School District,46,A
+Placer,Roseville,Roseville Joint Union High School District,47,A
+Orange,San Juan Capistrano,Capistrano Unified School District,48,A
+Los Angeles,San Dimas,Bonita Unified School District,49,A
+Orange,Tustin,Tustin Unified School District,50,A
+El Dorado,Placerville,El Dorado Union High School District,76,A
+Sonoma,Sebastopol,West Sonoma County Union High School District,77,A
+Orange,Brea,Brea-Olinda Unified School District,78,A
+Ventura,Moorpark,Moorpark Unified School District,79,A
+Orange,Mission Viejo,Saddleback Valley Unified School District,80,A
+Santa Barbara,Santa Barbara,Santa Barbara Unified School District,81,A
+Riverside,Norco,Corona-Norco Unified School District,82,A
+Santa Clara,San Jose,Campbell Union High School District,83,A-
+Shasta,Redding,Shasta Union High School District,84,A-
+Santa Clara,Santa Clara,Santa Clara Unified School District,85,A-
+Santa Clara,Milpitas,Milpitas Unified School District,86,A-
+San Francisco,San Francisco,San Francisco Unified School District,87,A-
+San Diego,El Cajon,Grossmont Union High School District,88,A-
+Santa Cruz,Scotts Valley,Scotts Valley Unified School District,89,A-
+Humboldt,Mckinleyville,Northern Humboldt Union High School District,90,A-
+Los Angeles,Downey,Downey Unified School District,91,A-
+Ventura,Ventura,Ventura Unified School District,92,A-
+Los Angeles,Monrovia,Monrovia Unified School District,93,A-
+Butte,Chico,Chico Unified School District,94,A-
+Ventura,Simi Valley,Simi Valley Unified School District,95,A-
+Sutter,Sutter,Sutter Union High School District,96,A-
+Santa Barbara,Orcutt,Orcutt Union Elementary School District,97,A-
+Alameda,Livermore,Livermore Valley Joint Unified School District,98,A-
+Sonoma,Petaluma,Petaluma Joint Union High School District,99,A-
+Santa Cruz,Santa Cruz,Santa Cruz City High School District,100,A-
+Sacramento,Elk Grove,Elk Grove Unified School District,101,A-
+Orange,Garden Grove,Garden Grove Unified School District,102,A-
+Fresno,Kingsburg,Kingsburg Joint Union High School District,103,A-
+San Bernardino,Upland,Upland Unified School District,104,A-
+Mendocino,Mendocino,Mendocino Unified School District,105,A-
+Solano,Benicia,Benicia Unified School District,106,A-
+Kern,Delano,Delano Joint Union High School District,107,A-
+Los Angeles,Covina,Covina-Valley Unified School District,108,A-
+San Joaquin,Stockton,Lincoln Unified School District,109,A-
+San Diego,Vista,Vista Unified School District,110,A-
+Los Angeles,Hawthorne,Hawthorne School District,111,A-
+Calaveras,Angels Camp,Bret Harte Union High School District,112,A-
+San Luis Obispo,Arroyo Grande,Lucia Mar Unified School District,113,A-
+Los Angeles,Whittier,Whittier Union High School District,114,A-
+Tulare,Tulare,Tulare Joint Union High School District,115,A-
+Sacramento,Galt,Galt Joint Union High School District,116,A-
+Solano,Fairfield,Travis Unified School District,117,A-
+Los Angeles,Long Beach,Long Beach Unified School District,118,A-
+San Bernardino,Chino,Chino Valley Unified School District,119,A-
+Sonoma,Sebastopol,Twin Hills Union Elementary School District,120,A-
+Santa Cruz,Santa Cruz,Live Oak Elementary School District,121,B+
+Fresno,Sanger,Sanger Unified School District,122,B+
+San Diego,San Diego,San Diego Unified School District,123,B+
+Nevada,Grass Valley,Nevada Joint Union High School District,124,B+
+San Joaquin,Ripon,Ripon Unified School District,125,B+
+Contra Costa,Martinez,Martinez Unified School District,126,B+
+El Dorado,El Dorado Hills,Buckeye Union Elementary School District,127,B+
+Tuolumne,Sonora,Sonora Union High School District,128,B+
+Santa Clara,San Jose,San Jose Unified School District,129,B+
+Alameda,Union City,New Haven Unified School District,130,B+
+Los Angeles,West Covina,West Covina Unified School District,131,B+
+Santa Cruz,Ben Lomond,San Lorenzo Valley Unified School District,132,B+
+Orange,Orange,Orange Unified School District,133,B+
+Los Angeles,Rowland Heights,Rowland Unified School District,134,B+
+San Luis Obispo,Paso Robles,Paso Robles Joint Unified School District,135,B+
+San Luis Obispo,Cambria,Coast Unified School District,136,B+
+San Diego,Bonsall,Bonsall Unified School District,137,B+
+Contra Costa,Brentwood,Liberty Union High School District (Brentwood),138,B+
+Sonoma,Windsor,Windsor Unified School District,139,B+
+Los Angeles,City Of Industry,Hacienda la Puente Unified School District,140,B+
+Sonoma,Healdsburg,Healdsburg Unified School District,141,B+
+Sutter,Live Oak,Live Oak Unified School District,142,B+
+Kern,Ridgecrest,Sierra Sands Unified School District,143,B+
+Shasta,Anderson,Anderson Union High School District,144,B+
+Stanislaus,Modesto,Modesto City High School District,145,B+
+San Diego,Chula Vista,Sweetwater Union High School District,146,B+
+Madera,Madera,Golden Valley Unified School District,147,B+
+San Luis Obispo,Atascadero,Atascadero Unified School District,148,B+
+Santa Clara,San Jose,East Side Union High School District,149,B+
+Tuolumne,Tuolumne,Summerville Union High School District,150,B+
+Siskiyou,Mount Shasta,Siskiyou Union High School District,151,B+
+Modoc,Cedarville,Surprise Valley Joint Unified School District,152,B+
+Riverside,La Quinta,Desert Sands Unified School District,153,B+
+San Diego,Escondido,Escondido Union High School District,154,B+
+San Mateo,Half Moon Bay,Cabrillo Unified School District,155,B+
+Imperial,Holtville,Holtville Unified School District,156,B+
+Imperial,Imperial,Imperial Unified School District,157,B+
+Ventura,Ojai,Ojai Unified School District,158,B+
+Santa Barbara,Carpinteria,Carpinteria Unified School District,159,B+
+Glenn,Elk Creek,Stony Creek Joint Unified School District,160,B+
+Siskiyou,Yreka,Yreka Union High School District,161,B+
+Mono,Mammoth Lakes,Mammoth Unified School District,162,B+
+Fresno,Prather,Sierra Unified School District,163,B+
+Riverside,Riverside,Riverside Unified School District,164,B+
+Placer,Lincoln,Western Placer Unified School District,165,B+
+Stanislaus,Turlock,Turlock Unified School District,166,B+
+Riverside,Perris,Val Verde Unified School District,167,B+
+Marin,Novato,Novato Unified School District,168,B+
+Stanislaus,Oakdale,Oakdale Joint Unified School District,169,B+
+Solano,Vacaville,Vacaville Unified School District,170,B+
+Tehama,Red Bluff,Red Bluff Joint Union High School District,171,B
+Sierra,Loyalton,Sierra-Plumas Joint Unified School District,172,B
+Siskiyou,Fort Jones,Scott Valley Unified School District,173,B
+Napa,Napa,Napa Valley Unified School District,174,B
+Alameda,Fremont,California School for the Blind,175,B
+Butte,Durham,Durham Unified School District,176,B
+Sonoma,Santa Rosa,Santa Rosa High School District,177,B
+Mono,Bridgeport,Eastern Sierra Unified School District,178,B
+Madera,Oneals,Chawanakee Unified School District,179,B
+San Diego,Valley Center,Valley Center-Pauma Unified School District,180,B
+Los Angeles,El Monte,El Monte Union High School District,181,B
+Los Angeles,Covina,Charter Oak Unified School District,182,B
+Imperial,Calipatria,Calipatria Unified School District,183,B
+Sonoma,Petaluma,Petaluma City Elementary School District,184,B
+Inyo,Lone Pine,Lone Pine Unified School District,185,B
+Merced,Atwater,Merced Union High School District,186,B
+Sacramento,Carmichael,San Juan Unified School District,187,B
+San Bernardino,Yucaipa,Yucaipa-Calimesa Joint Unified School District,188,B
+Marin,San Rafael,San Rafael City High School District,189,B
+Sacramento,Antelope,Center Joint Unified School District,190,B
+Kings,Lemoore,Lemoore Union High School District,191,B
+Humboldt,Fortuna,Fortuna Union High School District,192,B
+Kern,Wasco,Wasco Union High School District,193,B
+Contra Costa,Concord,Mt. Diablo Unified School District,194,B
+Imperial,El Centro,Central Union High School District,195,B
+San Bernardino,Big Bear Lake,Bear Valley Unified School District,196,B
+Trinity,Weaverville,Trinity Alps Unified School District,197,B
+Siskiyou,Dunsmuir,Dunsmuir Joint Union High School District,198,B
+Fresno,Fowler,Fowler Unified School District,199,B
+Sacramento,Sacramento,Natomas Unified School District,200,B
+Kern,Bakersfield,Kern High School District,201,B
+Mendocino,Leggett,Leggett Valley Unified School District,202,B
+Los Angeles,Bellflower,Bellflower Unified School District,203,B
+Tehama,Cottonwood,Evergreen Union School District,204,B
+San Bernardino,Apple Valley,Apple Valley Unified School District,205,B
+San Mateo,Daly City,Jefferson Union High School District,206,B
+San Diego,Oceanside,Oceanside Unified School District,207,B
+San Benito,Hollister,San Benito County Office of Education,208,B
+Lake,Lakeport,Lakeport Unified School District,209,B
+Tulare,Visalia,Visalia Unified School District,210,B
+El Dorado,South Lake Tahoe,Lake Tahoe Unified School District,211,B
+San Joaquin,Tracy,Tracy Joint Unified School District,212,B
+Kings,Hanford,Hanford Joint Union High School District,213,B
+Los Angeles,Acton,Acton-Agua Dulce Unified School District,214,B
+San Joaquin,Escalon,Escalon Unified School District,215,B
+Tulare,Porterville,Porterville Unified School District,216,B
+Madera,Oakhurst,Yosemite Unified School District,217,B
+Lake,Middletown,Middletown Unified School District,218,B
+Kern,Taft,Taft Union High School District,219,B
+Stanislaus,Hughson,Hughson Unified School District,220,B
+Butte,Gridley,Gridley Unified School District,221,B
+San Bernardino,Phelan,Snowline Joint Unified School District,222,B
+Santa Clara,Gilroy,Gilroy Unified School District,223,B
+Fresno,Riverdale,Riverdale Joint Unified School District,224,B
+Los Angeles,Pasadena,Pasadena Unified School District,225,B
+San Mateo,South San Francisco,South San Francisco Unified School District,226,B
+San Joaquin,Lodi,Lodi Unified School District,227,B
+Riverside,Nuevo,Nuview Union School District,228,B
+Riverside,Palm Springs,Palm Springs Unified School District,229,B
+Yolo,West Sacramento,Washington Unified School District,230,B
+Sutter,Yuba City,Yuba City Unified School District,231,B
+San Bernardino,Daggett,Silver Valley Unified School District,232,B
+Mariposa,Mariposa,Mariposa County Unified School District,233,B
+Merced,Hilmar,Hilmar Unified School District,234,B
+Orange,Anaheim,Anaheim Union High School District,235,B
+Riverside,Beaumont,Beaumont Unified School District,236,B
+Tehama,Corning,Corning Union High School District,NaN,B-
+Sonoma,Geyserville,Geyserville Unified School District,NaN,B-
+Santa Barbara,Santa Maria,Santa Maria Joint Union High School District,NaN,B-
+San Bernardino,Hesperia,Hesperia Unified School District,NaN,B-
+Humboldt,Petrolia,Mattole Unified School District,NaN,B-
+Tehama,Los Molinos,Los Molinos Unified School District,NaN,B-
+Mendocino,Fort Bragg,Fort Bragg Unified School District,NaN,B-
+San Benito,Hollister,San Benito High School District,NaN,B-
+San Diego,Ramona,Ramona City Unified School District,NaN,B-
+Nevada,Penn Valley,Penn Valley Union Elementary School District,NaN,B-
+Inyo,Bishop,Bishop Unified School District,NaN,B-
+Shasta,Redding,Redding Elementary School District,NaN,B-
+Los Angeles,Norwalk,Norwalk-La Mirada Unified School District,NaN,B-
+San Bernardino,Helendale,Helendale Elementary School District,NaN,B-
+Mendocino,Ukiah,Ukiah Unified School District,NaN,B-
+Sonoma,Cloverdale,Cloverdale Unified School District,NaN,B-
+Santa Clara,Morgan Hill,Morgan Hill Unified School District,NaN,B-
+Riverside,Hemet,Hemet Unified School District,NaN,B-
+Imperial,Brawley,Brawley Union High School District,NaN,B-
+Fresno,Kerman,Kerman Unified School District,NaN,B-
+San Joaquin,Linden,Linden Unified School District,NaN,B-
+Tulare,Porterville,Burton Elementary School District,NaN,B-
+San Mateo,Pescadero,La Honda-Pescadero Unified School District,NaN,B-
+Marin,Tomales,Shoreline Unified School District,NaN,B-
+Los Angeles,Lawndale,Centinela Valley Union High School District,NaN,B-
+Mendocino,Boonville,Anderson Valley Unified School District,NaN,B-
+San Joaquin,Manteca,Manteca Unified School District,NaN,B-
+Glenn,Orland,Orland Joint Unified School District,NaN,B-
+Humboldt,Ferndale,Ferndale Unified School District,NaN,B-
+Sacramento,Sacramento,Sacramento City Unified School District,NaN,B-
+Los Angeles,Los Angeles,Los Angeles Unified School District,NaN,B-
+Sonoma,Sonoma,Sonoma Valley Unified School District,NaN,B-
+Ventura,Oxnard,Oxnard Union High School District,NaN,B-
+Stanislaus,Modesto,Hart-Ransom Union Elementary School District,NaN,B-
+Amador,Jackson,Amador County Unified School District,NaN,B-
+Monterey,Monterey,Monterey Peninsula Unified School District,NaN,B-
+Los Angeles,Baldwin Park,Baldwin Park Unified School District,NaN,B-
+Fresno,Caruthers,Caruthers Unified School District,NaN,B-
+Merced,Le Grand,Le Grand Union High School District,NaN,B-
+Glenn,Princeton,Princeton Joint Unified School District,NaN,B-
+Los Angeles,Paramount,Paramount Unified School District,NaN,B-
+Sonoma,Rohnert Park,Cotati-Rohnert Park Unified School District,NaN,B-
+Shasta,Redding,Enterprise Elementary School District,NaN,B-
+Stanislaus,Waterford,Waterford Unified School District,NaN,B-
+Stanislaus,Newman,Newman-Crows Landing Unified School District,NaN,B-
+Stanislaus,Keyes,Keyes Union School District,NaN,B-
+Los Angeles,Duarte,Duarte Unified School District,NaN,B-
+Santa Barbara,Lompoc,Lompoc Unified School District,NaN,B-
+Yolo,Woodland,Woodland Joint Unified School District,NaN,B-
+Inyo,Independence,Owens Valley Unified School District,NaN,B-
+Yuba,Wheatland,Wheatland Union High School District,NaN,B-
+Butte,Paradise,Paradise Unified School District,NaN,B-
+Lake,Kelseyville,Kelseyville Unified School District,NaN,B-
+Riverside,Lake Elsinore,Lake Elsinore Unified School District,NaN,B-
+Riverside,Corona,Alvord Unified School District,NaN,B-
+Tulare,Exeter,Exeter Unified School District,NaN,B-
+San Bernardino,Fontana,Fontana Unified School District,NaN,B-
+Stanislaus,Ceres,Ceres Unified School District,NaN,B-
+Colusa,Maxwell,Maxwell Unified School District,NaN,B-
+San Diego,Fallbrook,Fallbrook Union High School District,NaN,B-
+Contra Costa,Rodeo,John Swett Unified School District,NaN,B-
+Humboldt,Eureka,Eureka City Schools,NaN,B-
+Kern,North Edwards,Muroc Joint Unified School District,NaN,B-
+San Benito,San Juan Bautista,Aromas/San Juan Unified School District,NaN,B-
+Glenn,Hamilton City,Hamilton Unified School District,NaN,B-
+Shasta,Burney,Fall River Joint Unified School District,NaN,B-
+Orange,Santa Ana,Santa Ana Unified School District,NaN,B-
+Los Angeles,Pico Rivera,El Rancho Unified School District,NaN,B-
+Butte,Oroville,Oroville Union High School District,NaN,B-
+Los Angeles,Lancaster,Antelope Valley Union High School District,NaN,B-
+Mendocino,Potter Valley,Potter Valley Community Unified School District,NaN,B-
+Monterey,Salinas,Salinas Union High School District,NaN,B-
+Fresno,Fresno,Fresno Unified School District,NaN,B-
+Los Angeles,La Puente,Bassett Unified School District,NaN,B-
+Merced,Los Banos,Los Banos Unified School District,NaN,C+
+Riverside,Perris,Perris Union High School District,NaN,C+
+Stanislaus,Denair,Denair Unified School District,NaN,C+
+Alameda,San Leandro,San Leandro Unified School District,NaN,C+
+Napa,Calistoga,Calistoga Joint Unified School District,NaN,C+
+Lassen,Westwood,Westwood Unified School District,NaN,C+
+San Bernardino,San Bernardino,San Bernardino City Unified School District,NaN,C+
+El Dorado,Georgetown,Black Oak Mine Unified School District,NaN,C+
+Fresno,Reedley,Kings Canyon Joint Unified School District,NaN,C+
+Kern,Tehachapi,Tehachapi Unified School District,NaN,C+
+Fresno,Fresno,Central Unified School District,NaN,C+
+Tulare,Lindsay,Lindsay Unified School District,NaN,C+
+San Bernardino,Trona,Trona Joint Unified School District,NaN,C+
+San Diego,Pine Valley,Mountain Empire Unified School District,NaN,C+
+Colusa,Arbuckle,Pierce Joint Unified School District,NaN,C+
+Fresno,Firebaugh,Firebaugh-Las Deltas Unified School District,NaN,C+
+San Bernardino,Needles,Needles Unified School District,NaN,C+
+Trinity,Hayfork,Mountain Valley Unified School District,NaN,C+
+Sacramento,Rio Vista,River Delta Joint Unified School District,NaN,C+
+Yolo,Fresno,Washington Unified School District,NaN,C+
+Alameda,Newark,Newark Unified School District,NaN,C+
+Yolo,Winters,Winters Joint Unified School District,NaN,C+
+Riverside,Jurupa Valley,Jurupa Unified School District,NaN,C+
+Stanislaus,Riverbank,Riverbank Unified School District,NaN,C+
+Humboldt,Miranda,Southern Humboldt Joint Unified School District,NaN,C+
+Kern,Lebec,El Tejon Unified School District,NaN,C+
+Colusa,Colusa,Colusa Unified School District,NaN,C+
+Los Angeles,Pomona,Pomona Unified School District,NaN,C+
+Plumas,Quincy,Plumas Unified School District,NaN,C+
+Trinity,Mad River,Southern Trinity Joint Unified School District,NaN,C+
+Solano,Dixon,Dixon Unified School District,NaN,C+
+Tulare,Dinuba,Dinuba Unified School District,NaN,C+
+Lassen,Susanville,Lassen Union High School District,NaN,C+
+Sacramento,Mcclellan,Twin Rivers Unified School District,NaN,C+
+Fresno,Selma,Selma Unified School District,NaN,C+
+Siskiyou,Dorris,Butte Valley Unified School District,NaN,C+
+Madera,Chowchilla,Chowchilla Union High School District,NaN,C+
+Alameda,San Lorenzo,San Lorenzo Unified School District,NaN,C+
+Lassen,Herlong,Fort Sage Unified School District,NaN,C+
+Solano,Fairfield,Fairfield-Suisun Unified School District,NaN,C+
+Shasta,Redding,Gateway Unified School District,NaN,C+
+Modoc,Tulelake,Tulelake Basin Joint Unified School District,NaN,C+
+Santa Cruz,Watsonville,Pajaro Valley Unified School District,NaN,C+
+Merced,Delhi,Delhi Unified School District,NaN,C+
+Tulare,Orosi,Cutler-Orosi Joint Unified School District,NaN,C+
+San Bernardino,Colton,Colton Joint Unified School District,NaN,C+
+Riverside,Moreno Valley,Moreno Valley Unified School District,NaN,C+
+San Bernardino,Rialto,Rialto Unified School District,NaN,C+
+Alameda,Fremont,California School for the Deaf-Fremont,NaN,C+
+Contra Costa,Pittsburg,Pittsburg Unified School District,NaN,C+
+Yuba,Marysville,Marysville Joint Unified School District,NaN,C+
+Yolo,Esparto,Esparto Unified School District,NaN,C
+Calaveras,San Andreas,Calaveras Unified School District,NaN,C
+Inyo,Big Pine,Big Pine Unified School District,NaN,C
+Mendocino,Point Arena,Point Arena Joint Union High School District,NaN,C
+Riverside,San Jacinto,San Jacinto Unified School District,NaN,C
+Santa Barbara,New Cuyama,Cuyama Joint Unified School District,NaN,C
+Stanislaus,Patterson,Patterson Joint Unified School District,NaN,C
+San Bernardino,Victorville,Victor Valley Union High School District,NaN,C
+Tulare,Woodlake,Woodlake Unified School District,NaN,C
+Madera,Madera,Madera Unified School District,NaN,C
+Contra Costa,Antioch,Antioch Unified School District,NaN,C
+Fresno,Coalinga,Coalinga-Huron Unified School District,NaN,C
+Glenn,Willows,Willows Unified School District,NaN,C
+Ventura,Santa Paula,Santa Paula Unified School District,NaN,C

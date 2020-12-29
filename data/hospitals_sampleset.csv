@@ -1,0 +1,41 @@
+County,City,Hospital,Ranking
+Los Angeles,Los Angeles,UCLA Medical Center,1
+Los Angeles,Los Angeles,Cedars-Sinai Medical Center,2
+San Francisco,San Francisco,UCSF Medical Center,3
+Santa Clara,Stanford,Stanford Health Care-Stanford Hospital,4
+Los Angeles,Los Angeles,Keck Medical Center of USC,5
+San Diego,La Jolla,Scripps La Jolla Hospitals,6
+San Diego,La Jolla,UC San Diego Health-Jacobs Medical Center,6
+Orange,Newport Beach,Hoag Memorial Hospital Presbyterian,8
+Sacramento,Sacramento,UC Davis Medical Center,9
+Contra Costa,Walnut Creek,John Muir Health-Walnut Creek Medical Center,10
+Orange,Orange,UCI Medical Center,11
+Contra Costa,Concord,John Muir Health-Concord Medical Center,12
+Los Angeles,Torrance,Torrance Memorial Medical Center,12
+Los Angeles,Long Beach,MemorialCare Long Beach Medical Center,14
+Orange,Mission Viejo,Mission Hospitals-Mission Viejo and Laguna Beach,15
+Orange,Anaheim,Kaiser Permanente Anaheim and Irvine Medical Centers,16
+San Diego,San Diego,Sharp Memorial Hospital,16
+Orange,Fountain Valley,MemorialCare Orange Coast Medical Center,18
+Los Angeles,Mission Hills,Providence Holy Cross Medical Center,18
+Los Angeles,Los Angeles,Adventist Health-Glendale,20
+San Francisco,San Francisco,California Pacific Medical Center,20
+Riverside,Rancho Mirage,Eisenhower Medical Center,20
+Los Angeles,Pasadena,Huntington Memorial Hospital,20
+Orange,Orange,St. Joseph Hospital-Orange,20
+Los Angeles,Los Angeles,Kaiser Permanente Los Angeles Medical Center,25
+San Diego,San Diego,Kaiser Permanente San Diego Zion and San Diego Medical Center,25
+Los Angeles,Tarzana,Providence Tarzana Medical Center,27
+San Mateo,Redwood City,Sequoia Hospital,27
+Orange,Fullerton,St. Jude Medical Center,27
+Sacramento,Sacramento,Sutter Medical Center,27
+Monterey,Monterey,Community Hospital of the Monterey Peninsula,31
+San Bernardino,Fontana,Kaiser Permanente Fontana and Ontario Medical Centers,31
+San Francisco,San Francisco,Kaiser Permanente San Francisco Medical Center,31
+Santa Clara,Santa Clara,Kaiser Permanente Santa Clara Medical Center,31
+Orange,Laguna Hills,MemorialCare Saddleback Medical Center,31
+Los Angeles,Santa Monica,Providence St. John's Health Center,31
+Butte,Chico,Enloe Medical Center,37
+Los Angeles,Baldwin Park,Kaiser Permanente Baldwin Park Medical Center,37
+Sacramento,Sacramento,Mercy General Hospital,37
+Los Angeles,Whittier,PIH Health Hospital-Whittier,37
