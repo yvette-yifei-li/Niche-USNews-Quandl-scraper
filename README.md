@@ -13,7 +13,7 @@ This program scrappes the California hospitals ranking data from https://health.
 grade dataset is stored in hospitals_sampleset.csv
 full dataset is stored in hospitals_fullset.csv
 
-## zillow_api_crawler.py
+## zillow_api_scraper.py
 
 This program crawls and filters out californis housing data on https://www.quandl.com/api/v3/datatables/ZILLOW
 full dataset is stored in homevalue_fullset.csv
