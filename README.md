@@ -10,7 +10,7 @@ To further explore the impact of neighbor counties, this project introduces some
 
 
 The project looks for a positive correlation between the education source, the medical source and housing price.
-## edudistrict_sraper.py
+## edudistrict_scraper.py
 
 This program scrappes the California k12 school district data from https://www.niche.com/k12/search/best-school-districts/s/california/
 grade dataset is stored in edu_sampleset.csv
