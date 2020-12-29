@@ -2,9 +2,9 @@ import argparse
 import sys
 import pandas as pd
 import os
-import zillow_api_scrapper
-import edudistrict_scrapper
-import hospital_scrapper
+import zillow_api_scraper
+import edudistrict_scraper
+import hospital_scraper
 
 
 def main():
@@ -39,19 +39,19 @@ def main():
         
         # fetch remote school district sample dataset
         print('\n',f'(1/3) Now scrapping the k12 school district {d.get(grade)} dataset from https://www.niche.com/k12/search/best-school-districts/s/california/')
-        edu = edudistrict_scrapper.main(grade=bool(grade), version=version)
+        edu = edudistrict_scraper.main(grade=bool(grade), version=version)
         print('\n', '='*20, f'First 5 rows of the k12 school district {d.get(grade)} dataset [remote]', '='*20, '\n')
         print(edu.head())
         
         #fetch remote hospital sample dataset
         print('\n',f'(2/3) Now scrapping the hospital {d.get(grade)} dataset from https://health.usnews.com/best-hospitals/area/ca')
-        hpt = hospital_scrapper.main(grade=bool(grade), version=version)
+        hpt = hospital_scraper.main(grade=bool(grade), version=version)
         print('\n', '='*20, f'First 5 rows of the hospitals {d.get(grade)} dataset [remote]', '='*20, '\n')
         print(hpt.head())
         
         #fetch remote home value sample dataset
         print('\n','(3/3) Now scrapping the home value dataset from https://www.quandl.com/api/v3/datatables/ZILLOW')
-        home = zillow_api_scrapper.main()
+        home = zillow_api_scraper.main()
         print('\n','='*20, 'First 5 rows of the home value dataset [remote]', '='*20, '\n')
         print(home.head())
         
