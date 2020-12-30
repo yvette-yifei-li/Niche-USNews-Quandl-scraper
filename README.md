@@ -19,7 +19,7 @@ You need to open the .ipynb file to see the dynamic visualization with hover tag
 ![Image](https://github.com/yvette-yifei-li/Niche-USNews-Quandl-scraper/blob/main/images/Screen%20Shot%202020-12-30%20at%202.51.33%20AM.png)
 
 ### CA average k12 education score by county
-![Image]()
+![Image](https://github.com/yvette-yifei-li/Niche-USNews-Quandl-scraper/blob/main/images/Screen%20Shot%202020-12-30%20at%202.51.43%20AM.png)
 
 ### County only datasets
 1. The data shows that both medical and education resource are correlated to the housing price of a county.
