@@ -8,6 +8,8 @@ By introducing in the geographic visualization, this project reflects the distri
 
 To further explore the impact of neighbor counties, this project introduces some new features to study the areal (a county and its' neighbor counties) medical and k12 education resource.
 
+Note: This file is 40+ Mb and it may sometimes run into issues to open it in the git preview. Please have it downloaded and open it locally.
+
 ## Some findings:
 
 You need to open the .ipynb file to see the dynamic visualization with hover tages
