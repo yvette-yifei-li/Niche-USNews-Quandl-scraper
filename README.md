@@ -20,7 +20,7 @@ You need to open the .ipynb file to see the dynamic visualization with hover tag
 ### CA average hopital score by county
 ![Image](https://github.com/yvette-yifei-li/Niche-USNews-Quandl-scraper/blob/main/images/Screen%20Shot%202020-12-30%20at%202.51.33%20AM.png)
 
-### CA average k12 education score by county
+### CA average k12 education district score by county
 ![Image](https://github.com/yvette-yifei-li/Niche-USNews-Quandl-scraper/blob/main/images/Screen%20Shot%202020-12-30%20at%202.51.43%20AM.png)
 
 ### County only datasets
