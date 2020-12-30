@@ -11,7 +11,7 @@ To further explore the impact of neighbor counties, this project introduces some
 ## Some findings:
 
 ### CA average home value distribution by county
-![Image]()
+![Image](https://github.com/yvette-yifei-li/Niche-USNews-Quandl-scraper/blob/main/images/Screen%20Shot%202020-12-30%20at%202.51.21%20AM.png)
 
 ### CA average hopital score by county
 ![Image()
