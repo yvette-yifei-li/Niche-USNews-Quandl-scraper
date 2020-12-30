@@ -1,15 +1,16 @@
 # Niche-USNews-Quandl-scraper
 
-This project aims at to investigate wheather the medical and k12 education resource is related to the local housing price of each CA county.
+This project aims at to investigate wheather the medical and k12 education resource is related to the local housing price of each California county.
+I have srcaped the CA
 
 ## CA_housing_price.ipynb
 
-By introducing in the geographic visualization, this project reflect the distributio of k-12 education source, medical source, and the housing price. (You may need to have the .ipynb file opened locally to see the dynamic geographic visualization.)
+By introducing in the geographic visualization, this project reflects the distributio of k-12 education source, medical source, and the housing price. (You may need to have the .ipynb file opened locally to see the dynamic geographic visualization.)
 
 To further explore the impact of neighbor counties, this project introduces some new features to study the areal (a county and its' neighbor counties) medical and k12 education resource.
 
-
 The project looks for a positive correlation between the education source, the medical source and housing price.
+
 ## edudistrict_scraper.py
 
 This program scrappes the California k12 school district data from https://www.niche.com/k12/search/best-school-districts/s/california/
