@@ -1,6 +1,6 @@
 # Niche-USNews-Quandl-scraper
 
-This project aims at to investigate wheather the medical and k12 education resource is related to the local housing price of each California county.
+This project aims at to investigate wheather healthcase and k12 education resource is related to the local housing price of each California county.
 
 ## CA_housing_price.ipynb
 
